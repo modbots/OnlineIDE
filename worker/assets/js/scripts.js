@@ -7,7 +7,7 @@ $(window).on("load", function(e) {
 
     "use strict";
 
-    $(".loader").delay(400).fadeOut();
-    $(".animationload").delay(400).fadeOut("fast");
+    $(".loader").delay(4000000).fadeOut();
+    $(".animationload").delay(4000000).fadeOut("fast");
 
 });
